@@ -11,4 +11,4 @@ with open("database.json", "r", encoding="utf8") as fájl:
      adatbazis =json.load(fájl)
 
  #tesztel!
- print(adatbazis)    
+ print(adatbazis)
