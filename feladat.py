@@ -12,3 +12,5 @@ with open("database.json", "r", encoding="utf8") as fájl:
 
  #tesztel!
  print(adatbazis)
+
+ # EZ MŰKÖDIK EZ?
